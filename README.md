@@ -79,6 +79,7 @@
 | [idea markdown](https://github.com/nicoulaj/idea-markdown) | 针对 idea 的Markdown语言支持。          |                                          |
 | [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android) | 一键上传应用到fir.im                   |                                          |
 | [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) | 统计代码行数                          |                                          |
+| [Android Resouce Usage Count](https://plugins.jetbrains.com/plugin/9885-android-resource-usage-count) | 计算资源文件使用次数           |                                          |
 
   
 
