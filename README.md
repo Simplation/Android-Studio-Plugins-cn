@@ -80,6 +80,8 @@
 | [FIR_Plugin_Android](https://github.com/FIRHQ/FIR_Plugin_Android) | 一键上传应用到fir.im                   |                                          |
 | [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) | 统计代码行数                          |                                          |
 | [Android Resouce Usage Count](https://plugins.jetbrains.com/plugin/9885-android-resource-usage-count) | 计算资源文件使用次数           |                                          |
+| [MVP Generator](https://plugins.jetbrains.com/plugin/8341-mvp-generator) | MVP类生成器 |                                          |
+| [Lifecycle Sorter](https://plugins.jetbrains.com/plugin/7742-lifecycle-sorter) | 按活动或片段在应用程序中调用它们的顺序对生命周期方法进行排序 |                                          |
 
   
 
