@@ -2,6 +2,7 @@
 <img alt="AndroidStudioPlugins" src="https://github.com/sunzq19931016/Android-Studio-Plugins-cn/blob/master/assets/android_studio_plugin.png?raw=true">
 </p>
 
+
 # Android Studio 插件  
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0) [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE)
@@ -34,6 +35,7 @@
 | [Exynap](http://exynap.com/ )                                | 一个帮助开发者自动生成样板代码的 AndroidStudio 插件。        |                                                              |
 | [Android Postfix Plugin](https://github.com/takahirom/android-postfix-plugin) | 可根据后缀快速完成代码。                                     |                                                              |
 | [Biu](https://plugins.jetbrains.com/plugin/9788-biu)         | 压缩PNG。                                                    |                                                              |
+| [JSON To Kotlin Class (JsonToKotlinClass)](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-) | 将 Json String 转换为 Kotlin                                 |                                                              |
 
 ### 调试
 
